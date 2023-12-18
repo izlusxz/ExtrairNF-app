@@ -1,0 +1,24 @@
+Instruções para Extrair Números de Nota Fiscal:
+
+Este programa foi criado para extrair números de nota fiscal de arquivos de texto. Siga os passos abaixo para executá-lo:
+
+Preparação:
+
+Certifique-se de ter o Node.js instalado no seu sistema. Se não tiver, você pode baixá-lo em nodejs.org.
+Organize seus Arquivos:
+
+Crie uma nova pasta no seu desktop ou em qualquer local desejado.
+Coloque todos os arquivos de texto (.txt) que contêm a estrutura {"numero_nf":"tal numero" ... nesta pasta.
+Baixe o Código:
+
+Crie um novo arquivo chamado extrairNumeros.js.
+Copie e cole o código fornecido aqui no arquivo extrairNumeros.js. Lembre-se de substituir "Caminho/Para/Sua/Pasta" pelo caminho real da pasta onde você armazenou os arquivos.
+Execução:
+
+Abra o terminal no mesmo diretório onde você salvou o arquivo extrairNumeros.js.
+
+Execute o comando: node extrairNumeros.js
+
+O programa irá processar todos os arquivos na pasta especificada e exibir os números de nota fiscal no console.
+
+Feito por Lascoski
